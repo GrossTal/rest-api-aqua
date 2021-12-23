@@ -13,3 +13,6 @@ Install the following packages by:
 **To Start the program:**
 
 `go run main.go`
+
+ **Notice:**
+ Add the DB file to `my_rest_api` folder.
