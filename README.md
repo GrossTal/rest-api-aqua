@@ -1,4 +1,4 @@
-# my-rest-api
+# rest-api-aqua
 
 **Installation:**
 
